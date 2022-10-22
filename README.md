@@ -1,7 +1,7 @@
 # amazon-top50-bestselling-books
 
-In this project, I’m using the dataset that was provided by (Onyx Data)[https://onyxdata.co.uk/] for January 2021, DataDNA dataset challenges. If you want to download 
-this dataset( they’ve others too), you can get it from (here)[https://onyxdata.co.uk/data-dna-dataset-challenge/datadna-dataset-archive/].
+In this project, I’m using the dataset that was provided by [Onyx Data](https://onyxdata.co.uk/) for January 2021, DataDNA dataset challenges. If you want to download 
+this dataset( they’ve others too), you can get it from [here](https://onyxdata.co.uk/data-dna-dataset-challenge/datadna-dataset-archive/).
 
 The steps that I’m following for this project:
 
