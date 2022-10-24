@@ -9,6 +9,7 @@ The steps that I’m following for this project:
 - Explore the data
 
 By looking into the data, I was able to answer the following questions:
+
   1) How many records are there in the table?
   
   2) How many books were written per genre by year?
@@ -18,3 +19,5 @@ By looking into the data, I was able to answer the following questions:
   4)Number of books written by the author between 2009 and 2019?
   
   5) Top 5 books with most numbers of reviews.
+  
+Data is imported into SQL Server Management Studio for data exploration and I have used Power BI for data visualization.
